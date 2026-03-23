@@ -1,7 +1,7 @@
-### 🎬 Streaming Layout
+### Streaming Layout
 Site de catálogo de filmes e séries desenvolvido em HTML e CSS puro, com foco em **CSS Grid** responsividade e boas práticas de estrutura de layout.
 
-### 📸 Layout 
+### Layout 
 O projeto utiliza um layout de duas colunas com:
 
 - **Header** com logo e menu de navegação.
@@ -26,7 +26,7 @@ assets/
 index.html              # Estrutura da página
 ```
 
-### ✅ Funcionalidades 
+### Funcionalidades 
 
 - Layout responsivo com CSS Grid
 
@@ -38,11 +38,11 @@ index.html              # Estrutura da página
 
 - Adaptação para telas menores que 720px
 
-### 🚀 Como rodar
+### Como rodar
  
 Abra o arquivo `index.html` diretamente no navegador — sem dependências ou instalação, ou utilize o live server no visual code.
 
-### 📌 Observações 
+### Observações 
 
 Projeto Desenvolvido para praticar CSS grid e layout responsivo.
 A seção de series está em construção.
